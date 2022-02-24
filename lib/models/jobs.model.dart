@@ -1,7 +1,5 @@
 import 'dart:convert';
 
-final jobs =
-    jobsFromJson("http://192.168.1.7:4000/api/v1/mistreci/categories/jobs/");
 
 List<Jobs> jobsFromJson(String str) =>
     List<Jobs>.from(json.decode(str).map((x) => Jobs.fromJson(x)));
