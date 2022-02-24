@@ -27,7 +27,7 @@ class _JobListPageState extends State<JobListPage> {
     getAllJobs();
   }
 
-  // var url = "http://192.168.1.6:4000/api/v1/mistreci/categories/jobs/";
+  
 
   @override
   Widget build(BuildContext context) {
