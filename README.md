@@ -17,3 +17,4 @@ Me pas apk e aplikacionit do te shkarkohet ne SmartPhone tuaj.
 ### Back-end
 
 - [Me kliko per te shkuar ne repon e back-end](https://github.com/onomdev/shopcon-backend)
+- [Me kliko per te pare rreth problemeve qe mund te hasni gjate eksperiences suaj ne aplikacion](https://github.com/onomdev/shopcon-backend/tree/main#readme)
