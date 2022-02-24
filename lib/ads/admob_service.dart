@@ -4,8 +4,8 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 
 class AdMobService {
   static String get bannedAdUnitId => Platform.isAndroid
-      ? "ca-app-pub-3940256099942544/6300978111"
-      : "ca-app-pub-3940256099942544/6300978111";
+      ? "?"
+      : "?";
   static initialze() {
     MobileAds.instance.initialize();
   }
