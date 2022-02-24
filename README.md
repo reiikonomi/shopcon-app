@@ -1,16 +1,19 @@
 # shopcon_app
 
-A new Flutter project.
+Ketu eshte kodi dhe apk per versionin Android te platformes Shopcon.
+Ende nuk eshte konfiguruar per IOS.
 
-## Getting Started
+## Application
 
-This project is a starting point for a Flutter application.
+Ne repon me kodin me siper gjendet nje file me emrin app-release.apk.
+Neqoftese deshironi te vezhgoni aplikacionin mund te ndiqni hapat e meposhtem.
+Duke klikuar tek app-release.apk nga SmartPhone juaj Android do te shkoni ne nje faqe tjeter ne te cilen duhet te shtypni butonin View Raw.
+Me pas apk e aplikacionit do te shkarkohet ne SmartPhone tuaj.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [App apk to download](https://github.com/onomdev/shopcon-app/blob/main/app-release.apk)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Back-end
+
+- [Me kliko per te shkuar ne repon e back-end](https://github.com/onomdev/shopcon-backend)
