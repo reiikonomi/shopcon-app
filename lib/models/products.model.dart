@@ -1,7 +1,6 @@
 import 'dart:convert';
 
-final products = productsFromJson(
-    "http://192.168.1.7:4000/api/v1/mistreci/categories/marketplace/products/");
+
 
 List<Products> productsFromJson(String str) =>
     List<Products>.from(json.decode(str).map((x) => Products.fromJson(x)));
