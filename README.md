@@ -1,14 +1,14 @@
 # shopcon_app
 
-Ketu eshte kodi dhe apk per versionin Android te platformes Shopcon.
-Ende nuk eshte konfiguruar per IOS.
+Here is the code of the Shopcon platform written in Flutter.
+Not configured for IOS!
 
 ## Application
 
-Ne repon me kodin me siper gjendet nje file me emrin app-release.apk.
-Neqoftese deshironi te vezhgoni aplikacionin mund te ndiqni hapat e meposhtem.
-Duke klikuar tek app-release.apk nga SmartPhone juaj Android do te shkoni ne nje faqe tjeter ne te cilen duhet te shtypni butonin View Raw.
-Me pas apk e aplikacionit do te shkarkohet ne SmartPhone tuaj.
+In the repo there is a file by the name of app-release.apk.
+If you want to download and see the application follow the steps below.
+Click app-release.apk from your Android smartphone. After you get redirected pres the button View raw.
+Then the app should be ready to be installed.
 
 
 - [App apk to download](https://github.com/onomdev/shopcon-app/blob/main/app-release.apk)
@@ -16,5 +16,5 @@ Me pas apk e aplikacionit do te shkarkohet ne SmartPhone tuaj.
 
 ### Back-end
 
-- [Me kliko per te shkuar ne repon e back-end](https://github.com/onomdev/shopcon-backend)
-- [Me kliko per te pare rreth problemeve qe mund te hasni gjate eksperiences suaj ne aplikacion](https://github.com/onomdev/shopcon-backend/tree/main#readme)
+- [Click me to go to the back-end repo](https://github.com/onomdev/shopcon-backend)
+- [Click me to see potential issues while using the app](https://github.com/onomdev/shopcon-backend/tree/main#readme)
